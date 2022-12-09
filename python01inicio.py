@@ -10,7 +10,7 @@ print (texto)
 
 # Utilizaremos para concatenar el simbolo universal +
 
-print("Mi texto es: " + texto)
+print("Mi texto es este: " + texto)
 
 #Podemos convertir el formato
 
